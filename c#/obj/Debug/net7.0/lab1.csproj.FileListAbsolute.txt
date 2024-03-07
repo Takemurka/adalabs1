@@ -1,0 +1,15 @@
+/Users/takemura/Documents/projects/adaCourse/lab1/bin/Debug/net7.0/lab1
+/Users/takemura/Documents/projects/adaCourse/lab1/bin/Debug/net7.0/lab1.deps.json
+/Users/takemura/Documents/projects/adaCourse/lab1/bin/Debug/net7.0/lab1.runtimeconfig.json
+/Users/takemura/Documents/projects/adaCourse/lab1/bin/Debug/net7.0/lab1.dll
+/Users/takemura/Documents/projects/adaCourse/lab1/bin/Debug/net7.0/lab1.pdb
+/Users/takemura/Documents/projects/adaCourse/lab1/obj/Debug/net7.0/lab1.csproj.AssemblyReference.cache
+/Users/takemura/Documents/projects/adaCourse/lab1/obj/Debug/net7.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/takemura/Documents/projects/adaCourse/lab1/obj/Debug/net7.0/lab1.AssemblyInfoInputs.cache
+/Users/takemura/Documents/projects/adaCourse/lab1/obj/Debug/net7.0/lab1.AssemblyInfo.cs
+/Users/takemura/Documents/projects/adaCourse/lab1/obj/Debug/net7.0/lab1.csproj.CoreCompileInputs.cache
+/Users/takemura/Documents/projects/adaCourse/lab1/obj/Debug/net7.0/lab1.dll
+/Users/takemura/Documents/projects/adaCourse/lab1/obj/Debug/net7.0/refint/lab1.dll
+/Users/takemura/Documents/projects/adaCourse/lab1/obj/Debug/net7.0/lab1.pdb
+/Users/takemura/Documents/projects/adaCourse/lab1/obj/Debug/net7.0/lab1.genruntimeconfig.cache
+/Users/takemura/Documents/projects/adaCourse/lab1/obj/Debug/net7.0/ref/lab1.dll
